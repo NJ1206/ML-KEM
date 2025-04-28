@@ -1,4 +1,4 @@
-Module Lattice Based Key Encapsulation Mechanism (ML-KEM) implementation in Rust
+Module Lattice Based Key Encapsulation Mechanism (ML-KEM) implementation in C++
 
 Used to establish a shared secret key over a public channel (Alternative to DH that is resistant to quantum computers)
 
